@@ -19,7 +19,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/lindacare/test/mtp/Resource.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="229">
-              <caret line="41" column="132" selection-start-line="41" selection-start-column="132" selection-end-line="41" selection-end-column="132" />
+              <caret line="41" column="103" selection-start-line="41" selection-start-column="103" selection-end-line="41" selection-end-column="103" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -448,7 +448,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1538737127048</updated>
-      <workItem from="1538737131487" duration="42042000" />
+      <workItem from="1538737131487" duration="42088000" />
     </task>
     <servers />
   </component>
@@ -485,7 +485,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42042000" />
+    <option name="totallyTimeSpent" value="42088000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="979" extended-state="6" />
@@ -955,7 +955,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/lindacare/test/mtp/Resource.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="229">
-          <caret line="41" column="132" selection-start-line="41" selection-start-column="132" selection-end-line="41" selection-end-column="132" />
+          <caret line="41" column="103" selection-start-line="41" selection-start-column="103" selection-end-line="41" selection-end-column="103" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
