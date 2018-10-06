@@ -1,0 +1,7 @@
+com/lindacare/test/mtp/DemoMessage.class
+com/lindacare/test/mtp/DemoProducer.class
+com/lindacare/test/mtp/DemoConsumer.class
+com/lindacare/test/mtp/DemoResource.class
+com/lindacare/test/mtp/KafkaConfig.class
+com/lindacare/test/mtp/DemoApplication.class
+com/lindacare/test/mtp/DemoConfiguration.class
