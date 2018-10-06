@@ -39,7 +39,7 @@ public class Resource {
   public List<Message> getMessages() {
       //TODO receive parameter to decide the number of messages to return
       if (consumer.getMessages().size() > 0) {
-          return Lists.reverse(consumer.getMessages()).subList(0,(consumer.getMessages().size() > 10?9:consumer.getMessages().size() -1));
+          return Lists.reverse(consumer.getMessages()).subList(0,(consumer.getMessages().size() > 10?9:consumer.getMessages().size()));
       }
       return Collections.emptyList();
   }
